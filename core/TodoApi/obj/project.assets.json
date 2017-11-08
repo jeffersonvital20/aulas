@@ -9683,16 +9683,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "c:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\TodoApi\\TodoApi.csproj",
-      "outputPath": "c:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\TodoApi\\obj\\",
+      "projectPath": "C:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\TodoApi\\TodoApi.csproj",
+      "outputPath": "C:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/TodoApi.dll": "c:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\TodoApi\\bin\\placeholder\\netcoreapp1.1\\TodoApi.dll"
+        "lib/netcoreapp1.1/TodoApi.dll": "C:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\TodoApi\\bin\\placeholder\\netcoreapp1.1\\TodoApi.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
