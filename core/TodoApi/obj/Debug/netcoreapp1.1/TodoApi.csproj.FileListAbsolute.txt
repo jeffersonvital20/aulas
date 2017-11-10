@@ -1,0 +1,16 @@
+c:\Users\jefferson.pedrosa\Documents\core\TodoApi\bin\Debug\netcoreapp1.1\TodoApi.deps.json
+c:\Users\jefferson.pedrosa\Documents\core\TodoApi\bin\Debug\netcoreapp1.1\TodoApi.runtimeconfig.json
+c:\Users\jefferson.pedrosa\Documents\core\TodoApi\bin\Debug\netcoreapp1.1\TodoApi.runtimeconfig.dev.json
+c:\Users\jefferson.pedrosa\Documents\core\TodoApi\bin\Debug\netcoreapp1.1\TodoApi.dll
+c:\Users\jefferson.pedrosa\Documents\core\TodoApi\bin\Debug\netcoreapp1.1\TodoApi.pdb
+c:\Users\jefferson.pedrosa\Documents\core\TodoApi\obj\Debug\netcoreapp1.1\TodoApi.AssemblyInfo.cs
+c:\Users\jefferson.pedrosa\Documents\core\TodoApi\obj\Debug\netcoreapp1.1\TodoApi.dll
+c:\Users\jefferson.pedrosa\Documents\core\TodoApi\obj\Debug\netcoreapp1.1\TodoApi.pdb
+c:\Users\jefferson.pedrosa\Documents\AngularJS\Aulas\core\TodoApi\bin\Debug\netcoreapp1.1\TodoApi.deps.json
+c:\Users\jefferson.pedrosa\Documents\AngularJS\Aulas\core\TodoApi\bin\Debug\netcoreapp1.1\TodoApi.runtimeconfig.json
+c:\Users\jefferson.pedrosa\Documents\AngularJS\Aulas\core\TodoApi\bin\Debug\netcoreapp1.1\TodoApi.runtimeconfig.dev.json
+c:\Users\jefferson.pedrosa\Documents\AngularJS\Aulas\core\TodoApi\bin\Debug\netcoreapp1.1\TodoApi.dll
+c:\Users\jefferson.pedrosa\Documents\AngularJS\Aulas\core\TodoApi\bin\Debug\netcoreapp1.1\TodoApi.pdb
+c:\Users\jefferson.pedrosa\Documents\AngularJS\Aulas\core\TodoApi\obj\Debug\netcoreapp1.1\TodoApi.AssemblyInfo.cs
+c:\Users\jefferson.pedrosa\Documents\AngularJS\Aulas\core\TodoApi\obj\Debug\netcoreapp1.1\TodoApi.dll
+c:\Users\jefferson.pedrosa\Documents\AngularJS\Aulas\core\TodoApi\obj\Debug\netcoreapp1.1\TodoApi.pdb

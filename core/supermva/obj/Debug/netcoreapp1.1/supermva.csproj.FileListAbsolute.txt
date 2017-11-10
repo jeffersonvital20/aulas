@@ -1,0 +1,8 @@
+C:\Users\jefferson.pedrosa\Documents\core\supermva\bin\Debug\netcoreapp1.1\supermva.deps.json
+C:\Users\jefferson.pedrosa\Documents\core\supermva\bin\Debug\netcoreapp1.1\supermva.runtimeconfig.json
+C:\Users\jefferson.pedrosa\Documents\core\supermva\bin\Debug\netcoreapp1.1\supermva.runtimeconfig.dev.json
+C:\Users\jefferson.pedrosa\Documents\core\supermva\bin\Debug\netcoreapp1.1\supermva.dll
+C:\Users\jefferson.pedrosa\Documents\core\supermva\bin\Debug\netcoreapp1.1\supermva.pdb
+C:\Users\jefferson.pedrosa\Documents\core\supermva\obj\Debug\netcoreapp1.1\supermva.AssemblyInfo.cs
+C:\Users\jefferson.pedrosa\Documents\core\supermva\obj\Debug\netcoreapp1.1\supermva.dll
+C:\Users\jefferson.pedrosa\Documents\core\supermva\obj\Debug\netcoreapp1.1\supermva.pdb
