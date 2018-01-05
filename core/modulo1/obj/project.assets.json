@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\modulo1\\modulo1.csproj",
+      "projectUniqueName": "c:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\modulo1\\modulo1.csproj",
       "projectName": "modulo1",
-      "projectPath": "C:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\modulo1\\modulo1.csproj",
+      "projectPath": "c:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\modulo1\\modulo1.csproj",
       "packagesPath": "C:\\Users\\jefferson.pedrosa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\modulo1\\obj\\",
+      "outputPath": "c:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\modulo1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

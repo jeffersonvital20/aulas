@@ -1,0 +1,10 @@
+c:\Users\jefferson.pedrosa\Documents\AngularJS\Aulas\core\modulo1\bin\Debug\netcoreapp2.0\modulo1.deps.json
+c:\Users\jefferson.pedrosa\Documents\AngularJS\Aulas\core\modulo1\bin\Debug\netcoreapp2.0\modulo1.runtimeconfig.json
+c:\Users\jefferson.pedrosa\Documents\AngularJS\Aulas\core\modulo1\bin\Debug\netcoreapp2.0\modulo1.runtimeconfig.dev.json
+c:\Users\jefferson.pedrosa\Documents\AngularJS\Aulas\core\modulo1\bin\Debug\netcoreapp2.0\modulo1.dll
+c:\Users\jefferson.pedrosa\Documents\AngularJS\Aulas\core\modulo1\bin\Debug\netcoreapp2.0\modulo1.pdb
+c:\Users\jefferson.pedrosa\Documents\AngularJS\Aulas\core\modulo1\obj\Debug\netcoreapp2.0\modulo1.csproj.CoreCompileInputs.cache
+c:\Users\jefferson.pedrosa\Documents\AngularJS\Aulas\core\modulo1\obj\Debug\netcoreapp2.0\modulo1.AssemblyInfoInputs.cache
+c:\Users\jefferson.pedrosa\Documents\AngularJS\Aulas\core\modulo1\obj\Debug\netcoreapp2.0\modulo1.AssemblyInfo.cs
+c:\Users\jefferson.pedrosa\Documents\AngularJS\Aulas\core\modulo1\obj\Debug\netcoreapp2.0\modulo1.dll
+c:\Users\jefferson.pedrosa\Documents\AngularJS\Aulas\core\modulo1\obj\Debug\netcoreapp2.0\modulo1.pdb
