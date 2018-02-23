@@ -12530,6 +12530,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.3",
+      "Microsoft.AspNetCore.StaticFiles >= 2.0.1",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -12541,11 +12542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\modulo1\\modulo1.csproj",
+      "projectUniqueName": "C:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\modulo1\\modulo1.csproj",
       "projectName": "modulo1",
-      "projectPath": "c:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\modulo1\\modulo1.csproj",
+      "projectPath": "C:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\modulo1\\modulo1.csproj",
       "packagesPath": "C:\\Users\\jefferson.pedrosa\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\modulo1\\obj\\",
+      "outputPath": "C:\\Users\\jefferson.pedrosa\\Documents\\AngularJS\\Aulas\\core\\modulo1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -12580,6 +12581,10 @@
           "Microsoft.AspNetCore.All": {
             "target": "Package",
             "version": "[2.0.3, )"
+          },
+          "Microsoft.AspNetCore.StaticFiles": {
+            "target": "Package",
+            "version": "[2.0.1, )"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",

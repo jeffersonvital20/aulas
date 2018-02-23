@@ -43,15 +43,8 @@ namespace modulo1
             {
                 app.UseDeveloperExceptionPage();
             }
-
-            app.Run(async (context) =>
-            {
-                var mensagem = _config["Mensagem"];
-                var conexao = _config["ConnectionStrings:DefaultConnection"];
-                await context.Response.WriteAsync(mensagem);
-                await context.Response.WriteAsync(msg.getMensagem());
-            });
             app.UseStaticFiles();
+            
             app.UseStaticFiles(new StaticFileOptions()
             {
                 FileProvider = new PhysicalFileProvider(
@@ -59,6 +52,16 @@ namespace modulo1
                    RequestPath = new PathString("/Arquivos") 
                 
             });
+
+            app.Run(async (context) =>
+            {
+                //  var mensagem = _config["Mensagem"];
+                //var conexao = _config["ConnectionStrings:DefaultConnection"];
+                //await context.Response.WriteAsync(mensagem);
+                await context.Response.WriteAsync(msg.getMensagem());
+            });
+           
+            
         }
     }
 }
