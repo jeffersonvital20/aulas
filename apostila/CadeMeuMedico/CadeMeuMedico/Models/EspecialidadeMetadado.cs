@@ -18,3 +18,4 @@ namespace CadeMeuMedico.Models
         [StringLength(80, ErrorMessage = "O Nome deve possuir no máximo 80 caracteres")]
         public string Nome { get; set; }
     }
+}
