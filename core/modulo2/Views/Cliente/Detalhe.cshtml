@@ -1,0 +1,17 @@
+@model modulo2.ViewModels.ClientesPedidosViewModel
+
+<h1>Cliente</h1>
+<hr/>
+
+@Model.Cliente.id <br/>
+@Model.Cliente.nome <br/>
+@Model.Cliente.email <br/>
+
+<h1> Pedidos</h1>
+<hr/>
+<ul>
+@foreach (var pedido in Model.Pedidos)
+{
+    <li>@pedido.Descricao</li>
+}
+</ul> 

@@ -1,0 +1,10 @@
+C:\Users\jeffe\Documents\projetos\aulas\core\modulo2\bin\Debug\netcoreapp2.0\modulo2.deps.json
+C:\Users\jeffe\Documents\projetos\aulas\core\modulo2\bin\Debug\netcoreapp2.0\modulo2.runtimeconfig.json
+C:\Users\jeffe\Documents\projetos\aulas\core\modulo2\bin\Debug\netcoreapp2.0\modulo2.runtimeconfig.dev.json
+C:\Users\jeffe\Documents\projetos\aulas\core\modulo2\bin\Debug\netcoreapp2.0\modulo2.dll
+C:\Users\jeffe\Documents\projetos\aulas\core\modulo2\bin\Debug\netcoreapp2.0\modulo2.pdb
+C:\Users\jeffe\Documents\projetos\aulas\core\modulo2\obj\Debug\netcoreapp2.0\modulo2.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\Documents\projetos\aulas\core\modulo2\obj\Debug\netcoreapp2.0\modulo2.AssemblyInfoInputs.cache
+C:\Users\jeffe\Documents\projetos\aulas\core\modulo2\obj\Debug\netcoreapp2.0\modulo2.AssemblyInfo.cs
+C:\Users\jeffe\Documents\projetos\aulas\core\modulo2\obj\Debug\netcoreapp2.0\modulo2.dll
+C:\Users\jeffe\Documents\projetos\aulas\core\modulo2\obj\Debug\netcoreapp2.0\modulo2.pdb
